@@ -2,6 +2,7 @@
   "name": "parallax",
   "version": "1.0.0",
   "description": "Landing page with parallax",
+  "homepage": "https://vladyslav-panchenko280.github.io/Parallax",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
